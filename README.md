@@ -260,3 +260,5 @@ Incluye interfaz con estilos (CSS), lógica del juego (JavaScript) e historial d
     </script>
 </body>
 </html>
+
+# Tareas pendientes:
