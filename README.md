@@ -263,3 +263,6 @@ Incluye interfaz con estilos (CSS), lógica del juego (JavaScript) e historial d
 ```
 
 # Tareas pendientes:
+- [x] Añadir funciones de memoria
+- [ ] Imcluir conversión de binario a hex
+- [ ] Añadir pin de usuario
