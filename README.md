@@ -268,4 +268,4 @@ Incluye interfaz con estilos (CSS), lógica del juego (JavaScript) e historial d
 - [ ] Añadir pin de usuario
 
 # Imagen desde una URL:
-![texto alternativo](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*eyQ1Q9Sh_KHqBnf83-UuBQ.jpeg)
+![texto alternativo](URL)
